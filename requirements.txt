@@ -1,0 +1,12 @@
+jupyter==1.0.0
+jupyterlab==3.5.1
+flaml==1.0.14
+xgboost==1.7.2
+scikit-learn==1.2.0
+rbo==0.1.2
+numpy==1.23.5
+pandas==1.3.4
+matplotlib==3.6.2
+seaborn==0.12.1
+pickle-mixin==1.0.2
+joblib==1.2.0
